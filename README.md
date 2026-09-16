@@ -1,16 +1,14 @@
-## Hi there 👋
+# Antonio Puriel Hernández
 
-<!--
-**AntonioPuriel/AntonioPuriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bioinformatician with a PhD in Environmental Microbiology (Université de Pau et des Pays de l'Adour, 2025).
+I build reproducible pipelines to turn sequencing data into biological answers.
 
-Here are some ideas to get you started:
+**What I do**
+- Shotgun metagenomics: QC, assembly, binning, MAG recovery and annotation
+- Reproducible workflows in Nextflow on HPC/SLURM and containers
+- Statistical analysis and publication-ready reports in R and Python
+- Community metabolic modeling (COBRApy, MICOM)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently** available for freelance data analysis and bioinformatics projects.
+
+📫 apurielh@gmail.com · [LinkedIn] Antonio Puriel · [ORCID] https://orcid.org/0009-0000-7631-1102
