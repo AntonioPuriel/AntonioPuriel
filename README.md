@@ -11,4 +11,4 @@ I build reproducible pipelines to turn sequencing data into biological answers.
 
 **Currently** available for freelance data analysis and bioinformatics projects.
 
-📫 apurielh@gmail.com · [LinkedIn] Antonio Puriel · [ORCID] https://orcid.org/0009-0000-7631-1102
+📫 apurielh@gmail.com · [LinkedIn] (https://www.linkedin.com/in/antonio-puriel-4b7992209/) [ORCID] https://orcid.org/0009-0000-7631-1102
